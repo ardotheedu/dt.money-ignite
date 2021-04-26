@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="dt.money" title="dt.money" src="./src/assets/images/logo.svg" />
+  <img alt="dt.money" title="dt.money" src="./src/assets/logo.svg" />
 </h1>
 </p>
 
