@@ -1,7 +1,7 @@
 import Modal from 'react-modal'
 import { useState } from 'react'
 
-import { TransactionsProvider } from './TransactionContext'
+import { TransactionsProvider } from './hooks/useTransactions'
 
 import {Header} from './Components/Header'
 import {NewTransactionModal} from './Components/NewTransactionModal'
